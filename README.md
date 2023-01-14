@@ -10,6 +10,10 @@ run file - DevzedApplication.java
 
 *API REST*
 
+1. localhost:8080/auth
+   * /nuevo
+   * /login
+    
 1. localhost:8080/about
    * /lista
    * /create
